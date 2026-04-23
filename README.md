@@ -559,3 +559,5 @@ Lee 🍻
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+- [REG-Vault](https://regvault.org) - Open retro-gaming metadata catalog. 91k games across 99 systems with box art, manuals, screenshots, gameplay previews. Free REST API + MCP server at `api.regvault.org/mcp`.
